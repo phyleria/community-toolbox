@@ -77,4 +77,4 @@ There are 3 major categories to this:
 ### Up next
 
  - ### [Getting started guide](./docs/getting_started.md)
- - ## practical demo
+ 
